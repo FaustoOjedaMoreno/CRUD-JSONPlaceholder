@@ -37,6 +37,6 @@ Para cerrar la aplicación, simplemente detén el servidor en la terminal presio
 7. Contribuciones
 Si deseas contribuir al proyecto, siéntete libre de hacer un fork del repositorio, realizar tus cambios y enviar un pull request.
 8. Contacto
-Si tienes preguntas o necesitas ayuda, puedes contactarme a través de [tu-email@example.com].
+Si tienes preguntas o necesitas ayuda, puedes contactarme a través de ojedamorenofausto014@gmail.com.
 Conclusión
 Estas instrucciones proporcionan una guía clara sobre cómo configurar y utilizar tu proyecto. Asegúrate de personalizar cualquier parte que necesite ajustes específicos según tu aplicación. Si necesitas más ayuda o deseas agregar algo más, ¡házmelo saber!
